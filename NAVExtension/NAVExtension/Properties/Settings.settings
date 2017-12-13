@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NAVExtension.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NAVExtension_generaljournal_GeneralJournalService_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ahasan-pc:7047/DynamicsNAV100/WS/CRONUS%20International%20Ltd./Page/GeneralJournalService</Value>
+    </Setting>
+    <Setting Name="NAVExtension_CustomerService_CustomerService_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20International%20Ltd./Page/CustomerService</Value>
+    </Setting>
+    <Setting Name="NAVExtension_castomercard_CastomerCard_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20International%20Ltd./Page/CastomerCard</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
